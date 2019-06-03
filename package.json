@@ -1,0 +1,15 @@
+{
+  "name": "cronjobs",
+  "version": "1.0.0",
+  "description": "this is demo for cron jobs in node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "puja",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-cron": "^2.0.3"
+  }
+}
